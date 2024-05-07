@@ -1,0 +1,7 @@
+Hidden Layer Size: 10, LR: .01, Test Loss: 0.2576, Test Accuracy: 0.94
+Hidden Layer Size: 25, LR: .01, Test Loss: 0.183, Test Accuracy: 0.9 
+Hidden Layer Size: 32, LR: .01, Test Loss: 0.1634, Test Accuracy: 0.96 
+Hidden Layer Size: 32, LR: .02, Test Loss: 0.1189 Test Accuracy: 0.96
+Hidden Layer Size: 40, LR: .01, Test Loss: 0.3003 Test Accuracy: 0.88
+
+
